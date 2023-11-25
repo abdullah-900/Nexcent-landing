@@ -39,7 +39,7 @@ const footer = () => {
             <h4 className="text-Neutral/White text-[1.25rem] font-semibold leading-7">Stay up to date</h4>
             <div className="flex justify-center bg-Neutral/Grey rounded-lg w-[15.9375rem] h-10">
             <input placeholder="Your email address" className="bg-Neutral/Grey w-[14.0625rem] font-normal text-[.875rem] leading-5 text-[#D9DBE1]" type="text" />
-            <img src="public\Footer\Big\send.svg" alt="" />
+            <img src="/Footer/Big/send.svg" alt="" />
             </div>
         </div>
       </div>

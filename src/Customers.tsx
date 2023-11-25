@@ -11,11 +11,11 @@ const Customers = () => {
         </div>
     <div className="w-full flex justify-between ">
     <img src="/public/clients section/Logo-4.svg" alt="" />
-        <img src="/public/clients section/Logo-5.svg" alt="" />
-        <img src="/public/clients section/Logo-6.svg" alt="" />
-        <img src="/public/clients section/Logo.svg" alt="" />
-        <img src="/public/clients section/Logo-1.svg" alt="" />
-        <img src="/public/clients section/Logo-2.svg" alt="" />
+        <img src="/clients section/Logo-5.svg" alt="" />
+        <img src="/clients section/Logo-6.svg" alt="" />
+        <img src="/clients section/Logo.svg" alt="" />
+        <img src="/clients section/Logo-1.svg" alt="" />
+        <img src="/clients section/Logo-2.svg" alt="" />
     </div>
   </div>
     </section>
