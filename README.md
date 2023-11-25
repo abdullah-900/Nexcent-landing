@@ -10,11 +10,11 @@ This repository contains a simple landing page built using React and Tailwind CS
 
 ## Live Demo
 
-Check out the live demo [here]([#](https://nexcent-landing.pages.dev/)) to see the landing page in action.
+Check out the [live demo](https://nexcent-landing.pages.dev/) to see the landing page in action.
 
 ## Design Source
 
-The design for this landing page is inspired by [Design Inspiration Source](https://www.figma.com/community/file/1222060007934600841/responsive-landing-page-design-website-home-page-design-agency-website-ui-design#). 
+The design for this landing page is inspired  [by](https://www.figma.com/community/file/1222060007934600841/responsive-landing-page-design-website-home-page-design-agency-website-ui-design#). 
 
 ## Getting Started
 
