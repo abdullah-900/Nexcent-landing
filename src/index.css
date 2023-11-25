@@ -1,12 +1,5 @@
-@font-face {
-    font-family: 'Inter';
-    src: url('/public/fonts/Inter-VariableFont_slnt,wght.ttf') format('truetype');
-}
-#root{
-    width: 100vw;
-    height:100vh;
-    overflow-x: hidden
-}
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
