@@ -40,13 +40,6 @@ The design for this landing page is [inspired by](https://www.figma.com/communit
 
    The landing page will be accessible at `http://localhost:3000` in your web browser.
 
-## Customization
-
-Feel free to customize the landing page to suit your project. Here are a few things you might want to modify:
-
-- **Content:** Update the content in the `src/components` directory to reflect your project or product details.
-- **Styles:** Tailwind CSS styles can be found in the `src/styles` directory. Modify the styles to match your branding.
-
 ## Build for Production
 
 When you are ready to deploy your landing page, you can create a production build using the following command:
