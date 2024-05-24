@@ -6,6 +6,10 @@ export default {
   ],
   theme: {
     extend: {
+      screens: {
+        '3xl': '1700px',
+        'custom-lg': '1200px',
+      },
       fontFamily: {
         'sans': ["Inter","sans serif"],
     },
